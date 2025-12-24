@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Session & Authentication
+auth_info/
+auth_info_baileys/
+
+# Generated Files
+output/
+downloads/
+logs/
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.mp4
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+*.pid
+*.seed
+*.pid.lock
+
+# Storage files (can contain sensitive data)
+storage/*.json
+!storage/bot_settings.example.json
+!storage/typing_history.example.json
+
+# Temporary files
+tmp/
+temp/
+
+# Heroku
+.heroku/
