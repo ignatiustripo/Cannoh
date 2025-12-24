@@ -1,0 +1,59 @@
+{
+  "name": "cannoh-md-bot",
+  "version": "3.0.0",
+  "description": "Advanced WhatsApp Bot with Multiple Features - Cannoh MD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "heroku-postbuild": "echo 'Build complete'",
+    "setup": "bash setup.sh",
+    "test": "echo 'Testing...' && node -v && npm -v"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "cannoh",
+    "whatsapp-bot"
+  ],
+  "author": "Cannoh MD Team",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.5",
+    "youtube-search-api": "^1.1.0",
+    "node-cron": "^3.0.3",
+    "dotenv": "^16.3.0",
+    "express": "^4.18.2",
+    "mime-types": "^2.1.35",
+    "openai": "^4.20.0",
+    "google-tts-api": "^2.0.2",
+    "string-similarity": "^4.0.4",
+    "pino": "^8.15.0",
+    "mongodb": "^6.0.0",
+    "node-cache": "^5.1.2",
+    "canvas": "^2.11.2",
+    "canvacord": "^5.4.8",
+    "sharp": "^0.33.2",
+    "gradient-string": "^2.0.2",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/cannoh-md-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/cannoh-md-bot/issues"
+  },
+  "homepage": "https://github.com/yourusername/cannoh-md-bot#readme"
+}
