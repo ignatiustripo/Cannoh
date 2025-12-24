@@ -45,5 +45,5 @@ A feature-rich, modular WhatsApp bot built with Baileys library. Cannoh MD offer
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cannoh-md-bot.git
+git clone https://github.com/ignatiustripo/cannoh-md-bot.git
 cd cannoh-md-bot
