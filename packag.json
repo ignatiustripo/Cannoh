@@ -50,10 +50,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/cannoh-md-bot.git"
+    "url": "git+https://github.com/ignatiustripo/cannoh-md-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/cannoh-md-bot/issues"
+    "url": "https://github.com/ignatiustripo/cannoh-md-bot/issues"
   },
-  "homepage": "https://github.com/yourusername/cannoh-md-bot#readme"
+  "homepage": "https://github.com/ignatiustripocannoh-md-bot#readme"
 }
